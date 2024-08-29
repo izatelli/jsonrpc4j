@@ -459,9 +459,6 @@ public interface LibraryService {
 ```
 
 
-
-[![Vulnerabilities](http://sonarqube.csi.it/api/project_badges/measure?project=mainline_acta_actadwd&metric=vulnerabilities)](http://sonarqube.csi.it/dashboard?id=mainline_acta_actadwd)
-
 [Google Group]: http://groups.google.com/group/json-rpc
 [Jackson page]: https://github.com/FasterXML/jackson
 [JSON RPC Spec]: http://www.jsonrpc.org/specification
